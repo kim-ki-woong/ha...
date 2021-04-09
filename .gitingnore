@@ -225,11 +225,14 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-### AndroidStudio Patch ###
+
 *.pyc
 *~
 __pycache__
+/__pycache__
 /venv
+venv
+/db.sqlite3
 db.sqlite3
 /static
 .DS_Store
